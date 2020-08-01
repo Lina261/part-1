@@ -19,6 +19,10 @@ public class Main {
                 break;
             case 4 : ex4.run();
                 break;
+            case 5:ex5.run();
+            break;
+            case 6 :ex21.run();
+            break;
             default: System.out.println("Попробуйте снова");
                 break;
         }
