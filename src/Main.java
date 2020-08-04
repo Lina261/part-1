@@ -23,6 +23,14 @@ public class Main {
             break;
             case 6 :ex21.run();
             break;
+            case 7 :ex22.run();
+            break;
+            case 8:ex23.run();
+            break;
+            case 9: ex24.run();
+            break;
+            case 10:ex25.run();
+            break;
             default: System.out.println("Попробуйте снова");
                 break;
         }
